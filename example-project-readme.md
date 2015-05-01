@@ -13,6 +13,6 @@ People With Computers
 
 **People With Computers** is:
 
-- [Nizar Khalife](https://twitter.com/khalifenizar) <nizar@ironhack>
-- [Xavi Leal](https://twitter.com/lealxavi) <xavi@ironhack>
-- [Christina Douzmanian](https://twitter.com/douzmanian) <christina@ironhack>
+- [Nizar Khalife](https://twitter.com/khalifenizar) <nizar@ironhack.com>
+- [Xavi Leal](https://twitter.com/lealxavi) <xavi@ironhack.com>
+- [Christina Douzmanian](https://twitter.com/douzmanian) <christina@ironhack.com>
