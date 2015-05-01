@@ -32,5 +32,16 @@ just add a line under the *Teams* heading like this one:
 - [Your Project Name](https://github.com/you/your-project) by Your Team
 ```
 
+You need to put your **project's name** inside the square brackets,
+your **project's repository URL** inside the parentheses
+and your **team's name** after *by*.
 If you need help with the pull request process,
 flag down [this bearded guy](https://twitter.com/khalifenizar).
+
+In addition, your project repository's README file should have:
+
+- **Description of the project**
+- **Technologies used**
+- **Team member names**
+- **Team member e-mail addresses**
+- **Team member Twitter URLs** (or URLs for other Internet profiles)
