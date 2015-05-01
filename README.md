@@ -45,3 +45,5 @@ In addition, your project repository's README file should have:
 - **Team member names**
 - **Team member e-mail addresses**
 - **Team member Twitter URLs** (or URLs for other Internet profiles)
+
+See the [example project README](example-project-readme.md) to get an idea of what it should look like.
