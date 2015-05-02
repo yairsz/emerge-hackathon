@@ -19,6 +19,7 @@ Teams
 - [Change Miami](https://github.com/Yonahel/XTeam) by The X Team
 - [Drawables](https://github.com/silverlogic/Drawables-iOS) by TSL
 - [JobKits](https://github.com/djlazz3/Emerge2015) by Three Tech Stooges
+- [Shhh Club](https://github.com/jalvarado91/ShhhClub) by The Loud Team
 - [Social_Home](https://github.com/djoker07/Social_Home.git) by Electric_coders
 
 
