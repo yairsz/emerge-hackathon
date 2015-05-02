@@ -14,7 +14,7 @@ Teams
 -----
 
 - [Amazing Project](#) by People With Computers
-
+- [AREX - Augmented Reality EXperience](https://github.com/qtrandev/AREX) by Team Shark
 
 
 Registering Your Team
