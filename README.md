@@ -13,7 +13,6 @@ see the [Registering Your Team section](#registering-your-team) below.
 Teams
 -----
 
-- [Amazing Project](#) by People With Computers
 - [AREX - Augmented Reality EXperience](https://github.com/qtrandev/AREX) by Team Shark
 
 
