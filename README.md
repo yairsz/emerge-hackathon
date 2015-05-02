@@ -19,6 +19,7 @@ Teams
 - [Change Miami](https://github.com/Yonahel/XTeam) by The X Team
 - [Drawables](https://github.com/silverlogic/Drawables-iOS) by TSL
 - [Emotilizer](https://github.com/ThisBeKiks/emotilizer) by Emotilizer
+- [gydr](https://github.com/darkfadr/gydr) by gydr
 - [JobKits](https://github.com/djlazz3/Emerge2015) by Three Tech Stooges
 - [Part of Life](https://github.com/bterri17/part-of-life) by Wellness Tech
 - [Remesa](https://github.com/drkyro/dinero) by Team Denzel Nakamoto
