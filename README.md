@@ -16,6 +16,7 @@ Teams
 - [AREX - Augmented Reality EXperience](https://github.com/qtrandev/AREX) by Team Shark
 - [because puppies](https://github.com/djben305/becausepuppies) by Team Doge
 - [JobKits](https://github.com/djlazz3/Emerge2015) by Three Tech Stooges
+- [Social_Home](https://github.com/djoker07/Social_Home.git) by Electric_coders
 
 
 Registering Your Team
