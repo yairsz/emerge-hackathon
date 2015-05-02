@@ -14,6 +14,7 @@ Teams
 -----
 
 - [AREX - Augmented Reality EXperience](https://github.com/qtrandev/AREX) by Team Shark
+- [because puppies](https://github.com/djben305/becausepuppies) by Team Doge
 
 
 Registering Your Team
