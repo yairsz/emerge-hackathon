@@ -21,6 +21,9 @@ Teams
 - [Emotilizer](https://github.com/ThisBeKiks/emotilizer) by Emotilizer
 - [gydr](https://github.com/darkfadr/gydr) by gydr
 - [JobKits](https://github.com/djlazz3/Emerge2015) by Three Tech Stooges
+- Karm by [CircuitSquad](https://github.com/CircuitSquad)
+  * [Karm-Web](https://github.com/CircuitSquad/Karm-Web)
+  * [Karm-RESTApi](https://github.com/CircuitSquad/Karm-RESTApi)
 - [Part of Life](https://github.com/bterri17/part-of-life) by Wellness Tech
 - [Remesa](https://github.com/drkyro/dinero) by Team Denzel Nakamoto
 - [RemindMEssenger](https://github.com/relisher/eMerge) by JJAM
