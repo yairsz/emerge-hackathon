@@ -18,6 +18,7 @@ Teams
 - [ASCII art](https://github.com/beovideskevin/asciiart) by el diletante digital
 - [because puppies](https://github.com/djben305/becausepuppies) by Team Doge
 - [Change Miami](https://github.com/Yonahel/XTeam) by The X Team
+- [Class at a Glance](https://github.com/jenDeveloper/classataglance) by Hackasaurus Rexes
 - [Drawables](https://github.com/silverlogic/Drawables-iOS) by TSL
 - [E-Feel](https://github.com/ericson09/E--Feels) by High Lifers
 - [Emotilizer](https://github.com/ThisBeKiks/emotilizer) by Emotilizer
@@ -71,3 +72,4 @@ In addition, your project repository's README file should have:
 - **Team member Twitter URLs** (or URLs for other Internet profiles)
 
 See the [example project README](example-project-readme.md) to get an idea of what it should look like.
+
