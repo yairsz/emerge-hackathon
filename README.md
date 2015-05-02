@@ -23,7 +23,9 @@ Teams
 - [JobKits](https://github.com/djlazz3/Emerge2015) by Three Tech Stooges
 - [Part of Life](https://github.com/bterri17/part-of-life) by Wellness Tech
 - [Remesa](https://github.com/drkyro/dinero) by Team Denzel Nakamoto
+- [RemindMEssenger](https://github.com/relisher/eMerge) by JJAM
 - [Shhh Club](https://github.com/jalvarado91/ShhhClub) by The Loud Team
+- [Sociable](https://github.com/relisher/eMerge) by JJAM
 - [Social_Home](https://github.com/djoker07/Social_Home.git) by Electric_coders
 - [yumdrop](https://github.com/hDeraj/yumdrop) by Team Yumdrop
 
