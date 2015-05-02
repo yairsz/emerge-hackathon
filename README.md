@@ -13,6 +13,7 @@ see the [Registering Your Team section](#registering-your-team) below.
 Teams
 -----
 
+<<<<<<< HEAD
 - [AREX - Augmented Reality EXperience](https://github.com/qtrandev/AREX) by Team Shark
 - [ASCII art](https://github.com/beovideskevin/asciiart) by el diletante digital
 - [because puppies](https://github.com/djben305/becausepuppies) by Team Doge
@@ -26,6 +27,7 @@ Teams
 - Karm by [CircuitSquad](https://github.com/CircuitSquad)
   * [Karm-Web](https://github.com/CircuitSquad/Karm-Web)
   * [Karm-RESTApi](https://github.com/CircuitSquad/Karm-RESTApi)
+- [picIT](https://github.com/buddylove954/HackIron) by Team HackIron
 - [Remesa](https://github.com/drkyro/dinero) by Team Denzel Nakamoto
 - [SafeSenior](https://github.com/safeseniors/emerge-hackathon-entry) by Team Awesome
 - [SALUBRITY](https://github.com/alfonsopintos/Salubrity) by Wyncode
