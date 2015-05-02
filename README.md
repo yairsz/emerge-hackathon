@@ -28,6 +28,7 @@ Teams
   * [Karm-RESTApi](https://github.com/CircuitSquad/Karm-RESTApi)
 - [Remesa](https://github.com/drkyro/dinero) by Team Denzel Nakamoto
 - [SafeSenior](https://github.com/safeseniors/emerge-hackathon-entry) by Team Awesome
+- [SALUBRITY](https://github.com/alfonsopintos/Salubrity) by Wyncode
 - [Shhh Club](https://github.com/jalvarado91/ShhhClub) by The Loud Team
 - [SILI](https://github.com/MiamiFitz/sili) by Team Normandy
 - [Sociable](https://github.com/relisher/eMerge) by JJAM
@@ -36,8 +37,6 @@ Teams
 - [Wantie](https://github.com/kwantec/wantie-app) by The Wanted
 - [WeVolunteer.me](https://github.com/iAnalyst/wevolunteer) by WeVolunteer Team
 - [yumdrop](https://github.com/hDeraj/yumdrop) by Team Yumdrop
-
-
 
 
 Registering Your Team
