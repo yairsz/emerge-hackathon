@@ -16,6 +16,7 @@ Teams
 - [AREX - Augmented Reality EXperience](https://github.com/qtrandev/AREX) by Team Shark
 - [ASCII art](https://github.com/beovideskevin/asciiart) by el diletante digital
 - [because puppies](https://github.com/djben305/becausepuppies) by Team Doge
+- [Change Miami](https://github.com/Yonahel/XTeam) by The X Team
 - [Drawables](https://github.com/silverlogic/Drawables-iOS) by TSL
 - [JobKits](https://github.com/djlazz3/Emerge2015) by Three Tech Stooges
 - [Social_Home](https://github.com/djoker07/Social_Home.git) by Electric_coders
