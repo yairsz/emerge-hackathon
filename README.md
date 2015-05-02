@@ -29,6 +29,7 @@ Teams
 - [Shhh Club](https://github.com/jalvarado91/ShhhClub) by The Loud Team
 - [Sociable](https://github.com/relisher/eMerge) by JJAM
 - [Social_Home](https://github.com/djoker07/Social_Home.git) by Electric_coders
+- [WeVolunteer.me](https://github.com/iAnalyst/wevolunteer) by WeVolunteer Team
 - [yumdrop](https://github.com/hDeraj/yumdrop) by Team Yumdrop
 
 
