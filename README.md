@@ -13,36 +13,35 @@ see the [Registering Your Team section](#registering-your-team) below.
 Teams
 -----
 
-- [AREX - Augmented Reality EXperience](https://github.com/qtrandev/AREX) by Team Shark
-- [ASCII art](https://github.com/beovideskevin/asciiart) by el diletante digital
-- [because puppies](https://github.com/djben305/becausepuppies) by Team Doge
-- [Change Miami](https://github.com/Yonahel/XTeam) by The X Team
-- [Class at a Glance](https://github.com/jenDeveloper/classataglance) by Hackasaurus Rexes
-- [Drawables](https://github.com/silverlogic/Drawables-iOS) by TSL
-- [E-Feel](https://github.com/ericson09/E--Feels) by High Lifers
-- [Emotilizer](https://github.com/ThisBeKiks/emotilizer) by Emotilizer
-- [GlucoseClub](https://github.com/glucoseclub/GlucoseClub) by GlucoseClub
-- [gydr](https://github.com/darkfadr/gydr) by gydr
-- [Healthtopia](https://github.com/bterri17/healthtopia) by Wellness Tech
-- [JobKits](https://github.com/djlazz3/Emerge2015) by Three Tech Stooges
-- Karm by [CircuitSquad](https://github.com/CircuitSquad)
-  * [Karm-Web](https://github.com/CircuitSquad/Karm-Web)
-  * [Karm-RESTApi](https://github.com/CircuitSquad/Karm-RESTApi)
-- [Land it now](https://github.com/landitnow1/landitnow) by Land It Now
-- [picIT](https://github.com/buddylove954/HackIron) by Team HackIron
-- [Remesa](https://github.com/drkyro/dinero) by Team Denzel Nakamoto
-- [SafeFace](https://github.com/GirlDevelopItMiami/safeface) by Raging Tapir
-- [SafeSenior](https://github.com/safeseniors/emerge-hackathon-entry) by Team Awesome
-- [SALUBRITY](https://github.com/alfonsopintos/Salubrity) by Wyncode
-- [Shhh Club](https://github.com/jalvarado91/ShhhClub) by The Loud Team
-- [SILI](https://github.com/MiamiFitz/sili) by Team Normandy
-- [Sociable](https://github.com/relisher/eMerge) by JJAM
-- [Social_Home](https://github.com/djoker07/Social_Home.git) by Electric_coders
-- [TellMeDoctor](https://github.com/kmoore812/TMDFacebook) by Kevin Moore
-- [Wantie](https://github.com/kwantec/wantie-app) by The Wanted
-- [WeVolunteer.me](https://github.com/iAnalyst/wevolunteer) by WeVolunteer Team
-- [yumdrop](https://github.com/hDeraj/yumdrop) by Team Yumdrop
-
+1. [AREX - Augmented Reality EXperience](https://github.com/qtrandev/AREX) by Team Shark
+2. [ASCII art](https://github.com/beovideskevin/asciiart) by el diletante digital
+3. [because puppies](https://github.com/djben305/becausepuppies) by Team Doge
+4. [Change Miami](https://github.com/Yonahel/XTeam) by The X Team
+5. [Class at a Glance](https://github.com/jenDeveloper/classataglance) by Hackasaurus Rexes
+6. [Drawables](https://github.com/silverlogic/Drawables-iOS) by TSL
+7. [E-Feel](https://github.com/ericson09/E--Feels) by High Lifers
+8. [Emotilizer](https://github.com/ThisBeKiks/emotilizer) by Emotilizer
+9. [GlucoseClub](https://github.com/glucoseclub/GlucoseClub) by GlucoseClub
+10. [gydr](https://github.com/darkfadr/gydr) by gydr
+11. [Healthtopia](https://github.com/bterri17/healthtopia) by Wellness Tech
+12. [JobKits](https://github.com/djlazz3/Emerge2015) by Three Tech Stooges
+13. Karm by [CircuitSquad](https://github.com/CircuitSquad)
+  - [Karm-Web](https://github.com/CircuitSquad/Karm-Web)
+  - [Karm-RESTApi](https://github.com/CircuitSquad/Karm-RESTApi)
+14. [Land it now](https://github.com/landitnow1/landitnow) by Land It Now
+15. [picIT](https://github.com/buddylove954/HackIron) by Team HackIron
+16. [Remesa](https://github.com/drkyro/dinero) by Team Denzel Nakamoto
+17. [SafeFace](https://github.com/GirlDevelopItMiami/safeface) by Raging Tapir
+18. [SafeSenior](https://github.com/safeseniors/emerge-hackathon-entry) by Team Awesome
+19. [SALUBRITY](https://github.com/alfonsopintos/Salubrity) by Wyncode
+20. [Shhh Club](https://github.com/jalvarado91/ShhhClub) by The Loud Team
+21. [SILI](https://github.com/MiamiFitz/sili) by Team Normandy
+22. [Sociable](https://github.com/relisher/eMerge) by JJAM
+23. [Social_Home](https://github.com/djoker07/Social_Home.git) by Electric_coders
+24. [TellMeDoctor](https://github.com/kmoore812/TMDFacebook) by Kevin Moore
+25. [Wantie](https://github.com/kwantec/wantie-app) by The Wanted
+26. [WeVolunteer.me](https://github.com/iAnalyst/wevolunteer) by WeVolunteer Team
+27. [yumdrop](https://github.com/hDeraj/yumdrop) by Team Yumdrop
 
 
 
