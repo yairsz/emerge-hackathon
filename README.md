@@ -30,7 +30,7 @@ Teams
   * [Karm-RESTApi](https://github.com/CircuitSquad/Karm-RESTApi)
 - [picIT](https://github.com/buddylove954/HackIron) by Team HackIron
 - [Remesa](https://github.com/drkyro/dinero) by Team Denzel Nakamoto
-- [SafeFace](https://github.com/becdar/safeface) by Raging Tapir
+- [SafeFace](https://github.com/GirlDevelopItMiami/safeface) by Raging Tapir
 - [SafeSenior](https://github.com/safeseniors/emerge-hackathon-entry) by Team Awesome
 - [SALUBRITY](https://github.com/alfonsopintos/Salubrity) by Wyncode
 - [Shhh Club](https://github.com/jalvarado91/ShhhClub) by The Loud Team
