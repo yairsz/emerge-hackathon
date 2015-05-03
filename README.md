@@ -20,11 +20,11 @@ Teams
 - [Drawables](https://github.com/silverlogic/Drawables-iOS) by TSL
 - [Emotilizer](https://github.com/ThisBeKiks/emotilizer) by Emotilizer
 - [gydr](https://github.com/darkfadr/gydr) by gydr
+- [Healthtopia](https://github.com/bterri17/healthtopia) by Wellness Tech
 - [JobKits](https://github.com/djlazz3/Emerge2015) by Three Tech Stooges
 - Karm by [CircuitSquad](https://github.com/CircuitSquad)
   * [Karm-Web](https://github.com/CircuitSquad/Karm-Web)
   * [Karm-RESTApi](https://github.com/CircuitSquad/Karm-RESTApi)
-- [Part of Life](https://github.com/bterri17/part-of-life) by Wellness Tech
 - [Remesa](https://github.com/drkyro/dinero) by Team Denzel Nakamoto
 - [Shhh Club](https://github.com/jalvarado91/ShhhClub) by The Loud Team
 - [Sociable](https://github.com/relisher/eMerge) by JJAM
