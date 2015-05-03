@@ -18,6 +18,7 @@ Teams
 - [because puppies](https://github.com/djben305/becausepuppies) by Team Doge
 - [Change Miami](https://github.com/Yonahel/XTeam) by The X Team
 - [Drawables](https://github.com/silverlogic/Drawables-iOS) by TSL
+- [E-Feel](https://github.com/ericson09/E--Feels) by High Lifers
 - [Emotilizer](https://github.com/ThisBeKiks/emotilizer) by Emotilizer
 - [gydr](https://github.com/darkfadr/gydr) by gydr
 - [Healthtopia](https://github.com/bterri17/healthtopia) by Wellness Tech
@@ -35,6 +36,7 @@ Teams
 - [Wantie](https://github.com/kwantec/wantie-app) by The Wanted
 - [WeVolunteer.me](https://github.com/iAnalyst/wevolunteer) by WeVolunteer Team
 - [yumdrop](https://github.com/hDeraj/yumdrop) by Team Yumdrop
+
 
 
 
