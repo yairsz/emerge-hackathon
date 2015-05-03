@@ -21,6 +21,7 @@ Teams
 - [Drawables](https://github.com/silverlogic/Drawables-iOS) by TSL
 - [E-Feel](https://github.com/ericson09/E--Feels) by High Lifers
 - [Emotilizer](https://github.com/ThisBeKiks/emotilizer) by Emotilizer
+- [GlucoseClub](https://github.com/glucoseclub/GlucoseClub) by GlucoseClub
 - [gydr](https://github.com/darkfadr/gydr) by gydr
 - [Healthtopia](https://github.com/bterri17/healthtopia) by Wellness Tech
 - [JobKits](https://github.com/djlazz3/Emerge2015) by Three Tech Stooges
@@ -40,6 +41,8 @@ Teams
 - [Wantie](https://github.com/kwantec/wantie-app) by The Wanted
 - [WeVolunteer.me](https://github.com/iAnalyst/wevolunteer) by WeVolunteer Team
 - [yumdrop](https://github.com/hDeraj/yumdrop) by Team Yumdrop
+
+
 
 
 Registering Your Team
