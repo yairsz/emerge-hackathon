@@ -28,6 +28,7 @@ Teams
 - Karm by [CircuitSquad](https://github.com/CircuitSquad)
   * [Karm-Web](https://github.com/CircuitSquad/Karm-Web)
   * [Karm-RESTApi](https://github.com/CircuitSquad/Karm-RESTApi)
+- [Land it now](https://github.com/landitnow1/landitnow) by Land It Now
 - [picIT](https://github.com/buddylove954/HackIron) by Team HackIron
 - [Remesa](https://github.com/drkyro/dinero) by Team Denzel Nakamoto
 - [SafeFace](https://github.com/GirlDevelopItMiami/safeface) by Raging Tapir
