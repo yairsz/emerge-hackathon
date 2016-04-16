@@ -92,3 +92,227 @@ Let them get to know you, your team and your idea.
 - **Communication (10%)**: How adequately did the team communicate
   the project's purpose and message?
 - **Visa API use (5%)**: How well integrated is the API into the application?
+
+
+Teams
+-----
+
+1. **Local Visa Market**
+  * Javier Salido
+  * Carmelo Colon
+  * Robert Hernandez
+  * Micah Resnick
+  * Quyen Tran
+2. **BeNight**
+  * Salvatore Mitrano
+  * Jeffrey Kwok
+  * Samuel Yanez
+  * Patrick Alexis
+  * Bernardo Santana
+3. **Team #3 (Name pending)**
+  * Christine Leverett
+  * Jay Qureshi
+  * DJ Kelmanson
+  * Yannick Daly
+  * Jose Mugaburu
+4. **Efficent Rebels**
+  * Cyrus Walker
+  * Michel Marrache
+  * Joann Kim
+  * Christian Cortes
+  * Marcelo Paiva
+5. **Team #5 (Name pending)**
+  * Kat Markava
+  * Brenno Moreira
+  * Neil Haines
+  * Frank Rycak Jr
+  * George Gogarten
+6. **Bolt**
+  * Adrian Rodriguez
+  * Jaime Acevedo
+  * Martin Di Diego
+  * Claudio Romano
+7. **Snag**
+  * Andres Moser
+  * Jose Morgan
+  * Leon Liang
+  * Rachel Rands
+  * Gabriel TBA
+8. **NoSleep**
+  * Faraz Patankar
+  * Avi Charlop
+  * Bianca Semprit
+  * Julian Guterman
+  * Hsiu-Yi Lin
+9. **ProjectQ**
+  * Jessica Hernandez
+  * allan brooks
+  * Renan Avrahami
+  * Edwin Reynoso
+  * Enrique De Diego
+10. **2b||!2b**
+  * Neil Goldman
+  * Dariel Vila
+  * cody greene
+11. **Two brothers and an Oscar**
+  * Joshua Martinez
+  * Peter Martinez
+  * Charlie Ramos
+  * Miguel Ramos
+  * Oscar Batlle
+12. **Visage**
+  * Juan Alvarado
+  * Alastair Paragas
+  * Ashlay Narcisse
+  * Kennet Postigo
+  * Alain Galvan
+13. **chronos**
+  * David Llaca
+  * Zachary Gittelman
+  * Daniel Munoz
+  * Peter TBA
+  * Kyle Pierce
+14. **ThePashminaProject**
+  * Anabetsy Rivero
+  * David Flores
+  * David Rosales
+  * Berni War
+  * Abigail Cruz
+15. **Scenic**
+  * regynald Augustin
+  * Cordell Pointer
+  * Lauren Culp
+  * Zachary Alexander
+16. **Lecture Capture**
+  * Jean Claude Noel
+  * Terra Noel
+  * Sara Rush
+  * A Rush
+  * Allan Tito
+17. **Delta Force: Task Force Machine**
+  * Ashley Martinez
+  * Annabelle Santos
+  * Kerlin Michel
+  * Joannier Pinales
+18. **Team CdT**
+  * Joseph Torres
+  * Benjamin Goldstein
+19. **team solomon**
+  * dwanye david
+20. **AllowPay**
+  * Lazaro Osuna
+  * Bryan Padron
+  * Thad Duval
+  * Andres Matiz
+21. **Team50**
+  * Arturo Real
+  * Tatiana Paul
+  * Marlise Urscheler
+  * Daniel Chang
+  * Dylan Tackoor
+22. **S.I.T.E**
+  * Daniel Blitfield
+  * Jonathan Morales
+  * Fulton Garcia
+  * Zach Feez
+  * Jose Sirven
+23. **DNS**
+  * Nemanja Stojanovic
+  * Sean Wilkinson
+  * Daniel Alvarez
+24. **policypad**
+  * Hernando Solano
+  * Brennan Vargas
+25. **PLUM CASH**
+  * David Hartmann
+  * Cristina Escalante
+  * Brian Wood
+  * Ryan Pineo
+  * Asia Pressley
+26. **FVI**
+  * Aaron Niskin
+  * Victor Moreno
+27. **Aeternum**
+  * Usman Shahid
+  * Ken Lai
+28. **Nova Nav**
+  * Trevon Williams
+  * Steve Okeke-Eweni
+29. **HitSend.io**
+  * Eddy Borja
+30. **NoName**
+  * William Castellano
+31. **Team #31 (Name pending)**
+  * Samantha Billings
+  * Yonah Elorza
+  * Ivette Castro
+32. **Azi**
+  * Gilles Yvetot
+  * Melvin Moustaid
+  * Benedicte Gouy
+  * Antoine Forest
+33. **LogixIO**
+  * Mike Henken
+  * Evan Wagner
+  * David Cruz
+34. **blackquants**
+  * gabriel goldszmidt
+  * max bentata
+35. **Meerkat**
+  * Todd metheny
+  * alain Fontaine
+  * Sean Gilchrist
+  * jose Casanova
+36. **EasyMoney**
+  * Mio Santana
+  * Moe Elerman
+  * Katie Lepri
+  * Ighel Vegue
+  * Sebastian Gonzalez
+37. **On Time**
+  * Chris Scott
+  * William Krause
+  * Joe Narvaez
+  * roger rodriguez
+  * brian Kim
+38. **Mams**
+  * Noe Miniel
+  * Nayeli Estevez
+  * Alain Colas
+  * Julian Buitrago
+  * Carlos Sanchez
+39. **Pakket Hub**
+  * Jon Rose
+  * Alberto Galvez
+  * Grady Griffin
+  * Sergii Galaganiuk
+  * Ilkhom 
+40. **Snowman Labs**
+  * Magnus Machado
+  * Danilo Brizola
+  * Abdullah Aydeger
+41. **GoldPlay**
+  * Zef Gonzalez
+  * Adams Fontin
+  * Yair Szarf
+  * Evertt Gilmore
+42. **Hermes**
+  * Chris Portela
+  * Richard Vargas
+  * David Mittelberg
+43. **Slackers**
+  * Carlos Correa
+  * Joel Cedano
+  * Kelsey Quiroz
+  * Raul La Rosa
+44. **ChatTrader**
+  * Dany Guevara
+45. **ValentinaSells.it**
+  * Richard Grundy
+  * Vaneltina Maddaluno
+46. **Stanky Breath**
+  * Alex Uribe
+  * Nassar Mufdi
+  * German Gomez
+  * Javier Pomares
+  * Carolina Uribe
