@@ -316,3 +316,8 @@ Teams
   * German Gomez
   * Javier Pomares
   * Carolina Uribe
+47. **IoT Innoventors**
+  * Ivann Ruiz
+  * Samuel Perrino
+  * Ryan Velasquez
+  * Distephano Accilen
