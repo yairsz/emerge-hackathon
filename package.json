@@ -16,5 +16,7 @@
     "url": "https://github.com/ironhack/emerge-hackathon/issues"
   },
   "homepage": "https://github.com/ironhack/emerge-hackathon#readme",
-  "dependencies": {}
+  "dependencies": {
+    "csv": "^0.4.6"
+  }
 }
