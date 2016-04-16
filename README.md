@@ -55,12 +55,12 @@ Let them get to know you, your team and your idea.
 
 ### Criteria ###
 
-- _Implementation (40%)_: How feature complete is the finished work?
+- **Implementation (40%)**: How feature complete is the finished work?
   Is the application functional?
-- _Technical Complexity (20%)_: How technically challenging is the finished work?
-- _Innovation (15%)_: How effective and novel is the idea
+- **Technical Complexity (20%)**: How technically challenging is the finished work?
+- **Innovation (15%)**: How effective and novel is the idea
   at solving the problem for its users?
-- _UX/ UI (10%)_: How seamless is the user experience?
-- _Communication (10%)_: How adequately did the team communicate
+- **UX/ UI (10%)**: How seamless is the user experience?
+- **Communication (10%)**: How adequately did the team communicate
   the project's purpose and message?
-- _Visa API use (5%)_: How well integrated is the API into the application?
+- **Visa API use (5%)**: How well integrated is the API into the application?
