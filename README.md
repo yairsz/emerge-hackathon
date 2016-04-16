@@ -8,6 +8,13 @@ If you have a question that isn't covered here,
 please reach out to an Ironhack or eMerge team member.
 
 
+WiFi
+----
+
+- _Network_: **Special_Event**
+- _Password_: **hackathon**
+
+
 Code of Conduct
 ---------------
 
