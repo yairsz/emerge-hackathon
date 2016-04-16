@@ -33,6 +33,34 @@ Any individual performing an act determined to be harassment
 **will immediately be ejected** from the 2016 eMerge Americas Hackathon.
 
 
+Ground Rules
+------------
+
+### Use Visa APIs ###
+
+To be eligible for prizes you must make use of either of two Visa APIs:
+
+- [Visa Direct](https://developer.visa.com/products/visa_direct)
+- [Visa Consumer Transaction Controls](https://developer.visa.com/products/vctc)
+
+Make sure to go through the Visa Developer
+[Getting Starting Guide](https://developer.visa.com/guides/vdpguide#gettingStarted)
+to get up and running with the Visa APIs.
+
+
+### Write application code within the 24 hours ###
+
+Your team cannot have started application-specific code
+before the Hackathon's 24 hour period begins.
+Any _grey area's_ in terms of using existing code
+should be cleared with the organizers.
+
+
+### Maximum amount of people on the team is 5 ###
+
+No more than 5 people to a team.
+
+
 Judging Criteria
 ----------------
 
